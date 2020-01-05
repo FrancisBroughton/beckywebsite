@@ -2,7 +2,7 @@ body{
  background-color:  #ffffff;
  color:#202020;
  font-family: 'Vollkorn';
- width: 900px;
+ /* width: 900px; */
  margin:  60px auto 160px;
  font-size: 21px;
 }
