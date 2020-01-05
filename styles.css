@@ -8,7 +8,14 @@ body{
 }
 
 .content-wrapper {
- width: 100%;
+ width: 61.8%;
+}
+
+@media only screen and (max-width: 600px) {
+  .content-wrapper {
+    background-color: lightblue;
+    width: 100%
+  }
 }
 
 .list-margin{
