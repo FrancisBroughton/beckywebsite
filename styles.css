@@ -2,13 +2,13 @@ body{
  background-color:  #ffffff;
  color:#202020;
  font-family: 'Vollkorn';
- font-size: 21px;
  width: 900px;
  margin:  60px auto 160px;
 }
 
 .content-wrapper {
  width: 100%;
+ font-size: 21px;
 }
 
 .list-margin{
