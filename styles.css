@@ -2,14 +2,14 @@ body{
  background-color:  #ffffff;
  color:#202020;
  font-family: 'Vollkorn';
- width: 900px;
+ max-width: 900px;
  margin:  60px auto 160px;
  font-size: 21px;
 }
 
 .content-wrapper  {
   word-break: break-all;
-  width: 100%
+  width: auto
 }
 
 p {
