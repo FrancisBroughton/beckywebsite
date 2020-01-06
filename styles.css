@@ -4,13 +4,13 @@ body{
  font-family: 'Vollkorn';
  max-width: 900px;
  margin:  60px auto 160px;
- padding: 1.25em;
  font-size: 21px;
 }
 
 .content-wrapper  {
-  word-break: break-all;
-  width: auto
+  word-break: break-word;
+  width: auto;
+  margin: 0 20px;
 }
 
 p {
