@@ -14,7 +14,7 @@ body{
 }
 
 .image-wrapper {
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .image-wrapper.image-wrapper__alt {
@@ -28,6 +28,7 @@ img {
 
 p {
   font-size: 21px;
+  max-width: 600px;
 }
 
 .list-margin{
